@@ -16,6 +16,7 @@ public class ResolucionConflictosGit {
      */
     public static void main(String[] args) {
         System.out.println("Escrito por Pedro...");
+        System.out.println("Linea añadida por Pedro...");
     }
     
 }
