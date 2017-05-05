@@ -15,7 +15,7 @@ public class ResolucionConflictosGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Escrito por Petolu67...");
+        System.out.println("Escrito por Pedro...");
     }
     
 }
